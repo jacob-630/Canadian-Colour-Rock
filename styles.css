@@ -16,14 +16,16 @@
     width: 150px;
     height: 150px;
 
-    border-style: dotted;
-    border-color: blue;
-    border-width: 4px;
+    
 
 }
 
-#logo{
-    justify-content: right;
+#missionState{
+    display: flex;
+    align-items: center;
+    border-style: dotted;
+    border-color: blue;
+    border-width: 4px;
 }
 
 a{
